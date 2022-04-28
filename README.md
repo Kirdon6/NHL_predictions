@@ -2,11 +2,11 @@
 
 
 ### Goal 
-- sance na vitezstvi ve **stanley cupu**
+- sance na vitezstvi ve **Stanley Cupu**
     - ktera divize je nejvetsi favorit
     - simualce pavouku
 - **predpovidani zapasu**
-    - dataset? minula sezona? minule dve? tymy se meni dos rychle...
+    - dataset? minula sezona? minule dve? tymy se meni dost rychle...
     - potential
 - statistiky jednotlivcu
     - rating hracu - lze pouzit v dalsi sezone, kdy se meni mezi tymy a z toho pouzit
